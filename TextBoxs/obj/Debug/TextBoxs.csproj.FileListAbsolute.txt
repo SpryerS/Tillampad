@@ -1,0 +1,9 @@
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\bin\Debug\TextBoxs.exe.config
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\bin\Debug\TextBoxs.exe
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\bin\Debug\TextBoxs.pdb
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.Form1.resources
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.Properties.Resources.resources
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.csproj.GenerateResource.cache
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.csproj.CoreCompileInputs.cache
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.exe
+C:\Users\kevin.jigfelt\source\repos\TextBoxs\TextBoxs\obj\Debug\TextBoxs.pdb
