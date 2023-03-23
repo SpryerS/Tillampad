@@ -1,0 +1,6 @@
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\bin\Debug\KvadratA.exe.config
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\bin\Debug\KvadratA.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\bin\Debug\KvadratA.pdb
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\obj\Debug\KvadratA.csproj.CoreCompileInputs.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\obj\Debug\KvadratA.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\KvadratA\KvadratA\obj\Debug\KvadratA.pdb
