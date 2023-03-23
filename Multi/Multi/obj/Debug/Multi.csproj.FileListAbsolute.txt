@@ -1,0 +1,6 @@
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\bin\Debug\Multi.exe.config
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\bin\Debug\Multi.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\bin\Debug\Multi.pdb
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\obj\Debug\Multi.csproj.CoreCompileInputs.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\obj\Debug\Multi.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Multi\Multi\obj\Debug\Multi.pdb
