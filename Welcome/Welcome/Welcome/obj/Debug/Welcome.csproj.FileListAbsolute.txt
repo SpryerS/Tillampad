@@ -1,0 +1,7 @@
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\bin\Debug\Welcome.exe.config
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\obj\Debug\Welcome.csproj.AssemblyReference.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\obj\Debug\Welcome.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\Welcome\Welcome\Welcome\obj\Debug\Welcome.pdb
