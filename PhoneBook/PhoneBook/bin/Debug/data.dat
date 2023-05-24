@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <PhoneBook>
+    <PhoneNumber>0765931440</PhoneNumber>
+    <FullName>Kevin Jigfelt</FullName>
+    <Email>kevsogt@gmail.com</Email>
+    <Address>Norra Klöverstigen 14
+jghghgjhgjh</Address>
+    <ID>-1</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber />
+    <FullName />
+    <Email />
+    <Address />
+    <ID>-2</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>63565645</PhoneNumber>
+    <FullName>457457457</FullName>
+    <Email>gmghmhg@gk.com</Email>
+    <Address>sdpkjhdsigipsdjgpi</Address>
+    <ID>-3</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>666</PhoneNumber>
+    <FullName>nigger sandwhich</FullName>
+    <Email>faggot@gmail.com</Email>
+    <Address>hell</Address>
+    <ID>-4</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-5</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-6</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-7</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-8</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-9</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>fbgtg</PhoneNumber>
+    <FullName>rgrgrg</FullName>
+    <Email>rgrgrg</Email>
+    <Address>rgrgrg</Address>
+    <ID>-10</ID>
+  </PhoneBook>
+</AppData>

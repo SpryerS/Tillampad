@@ -1,0 +1,10 @@
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\kevin.jigfelt\OneDrive - Academedia\Desktop\Allt\Prog\TIATIL\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
