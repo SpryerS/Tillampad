@@ -1,0 +1,10 @@
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\bin\Debug\ContactsBook.exe.config
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\bin\Debug\ContactsBook.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\bin\Debug\ContactsBook.pdb
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.AssemblyReference.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.Phonebook.resources
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.Properties.Resources.resources
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.GenerateResource.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.csproj.CoreCompileInputs.cache
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.exe
+C:\Users\KevSo\Desktop\Allt\Programmering\TIA\ContactsBook\ContactsBook\obj\Debug\ContactsBook.pdb
